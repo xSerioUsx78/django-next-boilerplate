@@ -6,7 +6,7 @@ Django Next js boilerplate for starting project without additional configs
 
 cd frontend/\
 npm i\
-npm run start
+npm run dev
 
 # Django
 
